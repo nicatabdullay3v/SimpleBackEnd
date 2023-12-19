@@ -1,0 +1,18 @@
+{
+   "products": [
+        {
+          "id": 1,
+          "name": "Lays",
+          "discountPercentage": 70,
+          "price": 33,
+          "salePrice": 45
+        },
+        {
+          "id": 2,
+          "name": "Snikers",
+          "discountPercentage": 70,
+          "price": 23,
+          "salePrice": 45
+        }
+      ]
+  }
